@@ -1,4 +1,3 @@
-```markdown
 # Terraform AWS Project
 
 This repository contains Terraform configurations to set up and manage AWS resources like EC2, S3, VPC, and more. It demonstrates the power of Infrastructure as Code (IaC) for automating the provisioning and management of AWS resources using Terraform.
